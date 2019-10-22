@@ -23,3 +23,6 @@ Tests are located at: src.test.scala.au.com.mir
 Navigate to the Main and run: src.main.scala.au.com.mir.Main.scala
 The results provided will answer the above questions
 
+## Data Visualisation of Astronaut Data
+Data visualisation using this data set can be found in the below link
+https://public.tableau.com/shared/NQM73NRTR 
